@@ -10,6 +10,22 @@ This is a virtual chatbot application where users can interact with a chatbot to
 - **Plural Handling:** Handles plural forms of words to improve user experience.
 - **Dynamic Avatar Colors:** Generates dynamic avatar colors based on user names for visual distinction.
 
+## Live Demo
+
+Check out the live demo [here](#) (coming soon).
+
+## Screenshots
+
+![image](https://github.com/Vishal-Pattar/Virtual_ChatBot/assets/104265753/40fecf2a-d3eb-4b75-af15-2bc4ecb1db43)  
+
+*Figure 1: Chat interface showing conversation with the chatbot.*  
+
+&nbsp;
+
+![image](https://github.com/Vishal-Pattar/Virtual_ChatBot/assets/104265753/c7d64ae8-3fbc-426e-946d-31e67928cafa)  
+
+*Figure 2: Entering name to start chatting.*
+
 ## Installation
 
 1. Clone the repository:
