@@ -12,7 +12,7 @@ This is a virtual chatbot application where users can interact with a chatbot to
 
 ## Live Demo
 
-Check out the live demo [here](#) (coming soon).
+Check out the live demo [here](https://virtual-chatbot.onrender.com/)
 
 ## Screenshots
 
